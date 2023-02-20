@@ -1,0 +1,4 @@
+Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. “Imagenet classification with deep convolutional neural networks.” Advances in neural information processing systems. 2012.
+
+Read my notes on Medium:
+https://medium.com/@zacharyyahn/paper-review-imagenet-classification-with-deep-convolutional-neural-networks-2012-833b4bdf9245
