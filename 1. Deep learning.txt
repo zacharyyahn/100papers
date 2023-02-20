@@ -1,1 +1,4 @@
 LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." Nature 521.7553 (2015): 436-444
+
+Read my notes on Medium: https://medium.com/@zacharyyahn/paper-review-deep-learning-2015-dbd2fe73b1
+
